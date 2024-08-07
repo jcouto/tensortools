@@ -1,5 +1,3 @@
-import scipy as sci
-from scipy import linalg
 import numpy as np
 
 from tensortools.tensors import KTensor
